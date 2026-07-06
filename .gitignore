@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+.env
+/models/*.joblib
+/data/generated/*.csv
